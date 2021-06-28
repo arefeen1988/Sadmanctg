@@ -17,6 +17,8 @@ public class Array1 {
 		System.out.println(number[0]);
 		System.out.println(len);
 		System.out.println("Arefeen is a developer");
+		System.out.println("Sadman is a QA");
+		System.out.println("SA");
 
 	}
 	
