@@ -16,7 +16,10 @@ public class Array1 {
 		int len = number.length;
 		System.out.println(number[0]);
 		System.out.println(len);
+		System.out.println("Arefeen is a developer");
 
 	}
+	
+	
 
 }
